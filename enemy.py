@@ -3,3 +3,9 @@ class Enemy:
         self.name = name
         self.strength = strength
         self.life = life
+
+    def getDamage(self, dmg):
+        if self.life == 0:
+            return 0
+        else:
+            self.life -= dmg
