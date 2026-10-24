@@ -41,6 +41,3 @@ python main.py
 
 Este é um projeto simples, pensado para aprendizagem e experimentação com OOP em Python. A lógica do jogo é direta e foi construída para ser fácil de entender e modificar.
 
-## Licença
-
-Este projeto não possui licença definida no repositório.
